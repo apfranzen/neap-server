@@ -1,6 +1,6 @@
 # NEAP Server-Side
 
-https://salty-inlet-28526.herokuapp.com/coffee
+https://enigmatic-gorge-65304.herokuapp.com/coffee
 
 This is the server-side of our NEAP App. It's a RESTful API. It serves up JSON.
 
