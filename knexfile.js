@@ -1,7 +1,7 @@
 const databaseName = 'neap_server';
-
+console.log(process.env.DATABASE_URL)
 module.exports = {
-  product: {
+  production: {
     client: 'postgresql',
     connection: process.env.DATABASE_URL,
     migrations: {
