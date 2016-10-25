@@ -12,7 +12,7 @@
     // *** register routes *** //
     app.use('/', routes);
     app.use('/coffee',  coffeeRoutes);
-    app.use('/users', userRoutes);
+    app.use('/user', userRoutes);
 
   };
 
